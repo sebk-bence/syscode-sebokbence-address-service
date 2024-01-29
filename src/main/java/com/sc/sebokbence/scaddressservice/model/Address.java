@@ -4,6 +4,7 @@ import java.util.*;
 import lombok.*;
 
 @Data
+@NoArgsConstructor
 @AllArgsConstructor
 public class Address {
   private UUID id;
